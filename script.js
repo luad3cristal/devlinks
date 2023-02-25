@@ -29,7 +29,7 @@ function toggleMode() {
   } else {
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e jaqueta cinza, com o fundo azul e roxo"
+      "Foto de Mayk Brito sorrindo, usando óculos de grau e jaqueta cinza, com o fundo azul e roxo"
     )
   }
 }
